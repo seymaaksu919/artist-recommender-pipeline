@@ -1,7 +1,5 @@
 # artist-recommender-pipeline
 
-# NMF ile Sanatçı Özellik Çıkarımı
-
 Bu kodda, sanatçılara ait bir veri kümesinden anlamlı özellikler çıkarmak için boyut indirgeme ve veri ön işleme tekniklerinin nasıl bir araya getirileceğini gösterir. Kodda MaxAbsScaler, NMF (Negatif Olmayan Matris Faktörizasyonu) ve Normalizer adımları bir pipeline içinde birleştirilmiştir.
 
 ## 🔍 Kodun Amacı
